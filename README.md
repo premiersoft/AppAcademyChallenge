@@ -44,7 +44,7 @@ Para ~~complicar~~ te ajudar, disponibilizaremos os seguintes fatos:
 Aceitaremos apenas programas desenvolvidos nessas linguagens:
 - Python
 - Java
-- JavaScript
+- JavaScript (ou TypeScript)
 - Bash
 - Kotlin
 - Swift
@@ -59,6 +59,9 @@ Não estamos avaliando interfaces gráficas nesse momento. Você pode entregar a
 Exemplo:
 ![alt text](__assets/py_academy_numbers.png)
 
+Caso queira elaborar uma interface, sem problemas!
+🤔💭~mostrar a porcentagem de candidatos por vaga em gráfico de 🍕...~
+
 ## 🎉 Consegui! e agora !?
 
 - revise o código
@@ -66,7 +69,10 @@ Exemplo:
 - teste o seu programa
 - compacta (como **.zip**) a pasta contendo **APENAS** os arquivos fontes do seu programa
 
-Por fim, enviar o arquivo **.zip** para [rh@premiersoft.net](mailto:rh@premiersoft.net).
+Por fim, enviar um e-mail com a solução em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título botar:
+> Desafio AppAcademy - {NOME_COMPLETO} - {VAGA}
+Exemplo:
+> Desafio AppAcademy - John Doe - Android
 
 *GLHF*
 
@@ -74,11 +80,14 @@ Por fim, enviar o arquivo **.zip** para [rh@premiersoft.net](mailto:rh@premierso
 
 Talvez essa possa ser a sua dúvida.
 
+### Qual é o prazo para entregar a solução ?
+> No máximo até 21/05/2021 às 23:59 (horário de brasília).
+
 ### Como faço para abrir o arquivo da planilha (.csv) ?
 > O formato de arquivo **CSV** é bem simples e pode ser aberto com qualquer editor de texto. Também é possível abrir com o **Microsoft Excel**, **LibreOffice Calc** ou qualquer outro leitor de planilha.
 
 ### Os dados da planilha são reais ?
-> Somente os nomes não são reais.
+> Com exceção do nome dos inscritos, todos os demais dados são reais.
 
 ### Preciso atender todos os critérios antes de mandar a solução por e-mail ?
 > Idealmente sim. Se você não conseguiu atender todos os critérios, tente mais uma vez. [usar atalho](#getting-started-%EF%B8%8F)
