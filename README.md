@@ -71,6 +71,7 @@ Caso queira elaborar uma interface, sem problemas!
 
 Por fim, enviar um e-mail com a solução em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título botar:
 > Desafio AppAcademy - {NOME_COMPLETO} - {VAGA}
+
 Exemplo:
 > Desafio AppAcademy - John Doe - Android
 
