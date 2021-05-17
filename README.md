@@ -60,6 +60,7 @@ Exemplo:
 ![alt text](__assets/py_academy_numbers.png)
 
 Caso queira elaborar uma interface, sem problemas!
+
 🤔💭*mostrar a porcentagem de candidatos por vaga em gráfico de 🍕...*
 
 ## 🎉 Consegui! e agora !?
