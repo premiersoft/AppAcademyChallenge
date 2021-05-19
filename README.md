@@ -88,6 +88,9 @@ Talvez essa possa ser a sua dúvida.
 ### Como faço para abrir o arquivo da planilha (.csv) ?
 > O formato de arquivo **CSV** é bem simples e pode ser aberto com qualquer editor de texto. Também é possível abrir com o **Microsoft Excel**, **LibreOffice Calc** ou qualquer outro leitor de planilha.
 
+### Os nomes na planilha estão aparecendo com caracteres estranhos como "OtÃ¡vio"
+> O programa que você está usando para abrir a planilha esta abrindo o arquivo com o formato de texto ASCII. O formato certo para exibir as informações é UTF-8. Observe nesse conversor online o que acontece quando se converte texto em UTF-8 para ASCII: [Online ASCII Tools](https://onlineasciitools.com/convert-utf8-to-ascii?input=Ot%C3%A1vio).
+
 ### Os dados da planilha são reais ?
 > Com exceção do nome dos inscritos, todos os demais dados são reais.
 
