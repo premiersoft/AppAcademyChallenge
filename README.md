@@ -12,7 +12,7 @@ Portanto, para simplificar a contabilização desses indicadores e possibilitar 
 
 ## Getting started ☕️
 
-Na pasta principal desse repositório há uma planilha chamada [**AppAcademy_Candidates.csv**](./AppAcademy_Candidates.csv). Essa planilha contém algumas informações básicas de alguns candidatos que se inscreveram para o **AppAcademy**. Lá você encontrará dados como **nome**, **vaga**, **idade** e **estado**. Para proteger a identidade dos participantes, os nomes foram gerados aleatoriamente.
+Na pasta principal desse repositório há uma planilha chamada [**AppAcademy_Candidates.csv**](./AppAcademy_Candidates.csv). Essa planilha contém algumas informações básicas de alguns candidatos que se inscreveram para o **AppAcademy**. Lá você encontrará dados como **nome**, **vaga**, **idade** e **estado**. Para proteger a identidade dos participantes, os nomes foram gerados aleatoriamente. O seu programa deve consumir esses dados para atender os critérios descritos a seguir.
 
 ## O que precisamos que o programa faça ?
 
