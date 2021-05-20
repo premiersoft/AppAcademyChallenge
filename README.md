@@ -86,7 +86,7 @@ Talvez essa possa ser a sua dúvida.
 > No máximo até 21/05/2021 às 23:59 (horário de brasília).
 
 ### Fiz uso de biblioteca(s) para criar o programa. Preciso incluí-las no aquivo ".zip" ?
-> Todas as linguagens especificadas acima conseguem atender os requisitos do desafio sem a necessidade de biblioteca(s) de terceiros. Caso o propósito da biblioteca seja auxiliar em tarefas além das definidas como requisitos desse programa (criação de interfaces gráficas, por exemplo), então você deve incluí-las junto ao seu arquivo **.zip** com os fontes.
+> Todas as linguagens especificadas acima conseguem atender os requisitos do desafio sem a necessidade de biblioteca(s) de terceiros. Caso o propósito da biblioteca seja auxiliar em tarefas além das definidas como [requisitos desse programa](#o-que-precisamos-que-o-programa-faça-) (criação de interfaces gráficas, por exemplo), então você deve incluí-las junto ao seu arquivo **.zip** a ser enviado.
 
 ### Como faço para abrir o arquivo da planilha (.csv) ?
 > O formato de arquivo **CSV** é bem simples e pode ser aberto com qualquer editor de texto. Também é possível abrir com o **Microsoft Excel**, **LibreOffice Calc** ou qualquer outro leitor de planilha.
